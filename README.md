@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheDarkEnemy
+- 👋 Hi, I’m @M.H
 - 👀 I’m interested in Coding, Gaming and Music
 - 🌱 I’m currently learning C++ in university
 <!---
